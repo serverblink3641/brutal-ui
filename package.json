@@ -42,7 +42,7 @@
     "changeset:release": "changeset publish"
   },
   "devDependencies": {
-    "astro": "^4.0.6"
+    "astro": "^4.11.3"
   },
   "dependencies": {
     "@changesets/cli": "^2.27.1"
